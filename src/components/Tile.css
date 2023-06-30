@@ -1,0 +1,8 @@
+.tile {
+  width: 20px;
+  height: 20px;
+  font-size: 16px;
+  font-weight:bold;
+  border: solid 1px white;
+  color: white;
+}
